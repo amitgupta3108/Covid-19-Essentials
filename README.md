@@ -1,2 +1,1 @@
-# react-shop-app
-# github-upload
+# react-shop-app-for-Covid-19-essentials
